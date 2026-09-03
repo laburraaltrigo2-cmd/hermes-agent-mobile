@@ -16,6 +16,14 @@
   <a href="README.es.md"><img src="https://img.shields.io/badge/Lang-Español-orange?style=for-the-badge" alt="Español"></a>
 </p>
 
+> [!IMPORTANT]
+> **Esta rama incluye Hermes Agent Mobile**, una adaptación PWA del renderer real
+> de Hermes Desktop para iPhone, iPad y Android. Incluye diseño táctil responsive,
+> paneles móviles de archivos y terminal, modo claro/oscuro, interfaz en español,
+> fondos personalizados, micrófono, “Hey Hermes” y avisos cuando Hermes termina
+> de responder. Consulta el [inicio rápido](README.mobile.md) o la
+> [guía completa de instalación móvil](MOBILE_PWA.md).
+
 **The self-improving AI agent built by [Nous Research](https://nousresearch.com).** It's the only agent with a built-in learning loop — it creates skills from experience, improves them during use, nudges itself to persist knowledge, searches its own past conversations, and builds a deepening model of who you are across sessions. Run it on a $5 VPS, a GPU cluster, or serverless infrastructure that costs nearly nothing when idle. It's not tied to your laptop — talk to it from Telegram while it works on a cloud VM.
 
 Use any model you want — [Nous Portal](https://portal.nousresearch.com), OpenRouter, OpenAI, your own endpoint, and [many others](https://hermes-agent.nousresearch.com/docs/integrations/providers). Switch with `hermes model` — no code changes, no lock-in.

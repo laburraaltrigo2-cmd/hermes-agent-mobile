@@ -24,4 +24,4 @@ notificaciones, micrófono y “Hey Hermes”.
 
 Este proyecto deriva de
 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) y
-conserva su licencia AGPL-3.0.
+conserva su licencia MIT.
