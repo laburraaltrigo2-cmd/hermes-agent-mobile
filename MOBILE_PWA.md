@@ -56,7 +56,7 @@ acceso directo a rutas locales, se degradan o permanecen desactivadas en web.
 Requisitos: Node.js 20+, npm y una instalación funcional de Hermes Agent.
 
 ```bash
-git clone https://github.com/soporte-ui/hermes-agent-mobile.git
+git clone https://github.com/laburraaltrigo2-cmd/hermes-agent-mobile.git
 cd hermes-agent-mobile
 npm install
 npm run --workspace apps/desktop build:mobile
